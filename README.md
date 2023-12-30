@@ -8,7 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/JWT-red?style=plastic&logo=json-web-tokens)
 ![Static Badge](https://img.shields.io/badge/AWS-purple?style=plastic&logo=amazon-aws)
 
-
+![image](https://github.com/chimaek/chimaek/assets/24273120/589889d3-325a-4e1a-899a-3a75f28e850b)
 
 <!--
 **chimaek/chimaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
