@@ -8,6 +8,8 @@
 ![Static Badge](https://img.shields.io/badge/JWT-red?style=plastic&logo=json-web-tokens)
 ![Static Badge](https://img.shields.io/badge/AWS-purple?style=plastic&logo=amazon-aws)
 
+![git-logs](https://api.githubtrends.io/user/svg/chimaek/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)
+
 ![github-wrapped](https://github.com/user-attachments/assets/9275ea07-6144-433b-aa78-ebac74c10f27)
 
 <!--
