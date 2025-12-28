@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ![Static Badge](https://img.shields.io/badge/Spring-black?style=plastic&logo=Spring)
 ![Static Badge](https://img.shields.io/badge/Spring_Security-black?style=plastic&logo=Spring-Security)
 ![Static Badge](https://img.shields.io/badge/Django-blue?style=plastic&logo=Django)
@@ -8,7 +8,11 @@
 ![Static Badge](https://img.shields.io/badge/JWT-red?style=plastic&logo=json-web-tokens)
 ![Static Badge](https://img.shields.io/badge/AWS-purple?style=plastic&logo=amazon-aws)
 
-![git-logs](https://api.githubtrends.io/user/svg/chimaek/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)
+## my homepage
+![Hits](https://count.weniv.co.kr/api/v1/badge?url=https%3A%2F%2Fchimaek.net&label=hits&labelColor=orange)
+
+[https://www.chimaek.net](https://chimaek.net/)
+
 
 ![github-wrapped](https://github.com/user-attachments/assets/9275ea07-6144-433b-aa78-ebac74c10f27)
 
