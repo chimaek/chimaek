@@ -14,7 +14,7 @@
 [https://www.chimaek.net](https://chimaek.net/)
 
 
-![github-wrapped](https://github.com/user-attachments/assets/9275ea07-6144-433b-aa78-ebac74c10f27)
+![github-wrapped](https://files.chimaek.net/api/public/dl/u36eYD9A?inline=true)
 
 <!--
 **chimaek/chimaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
