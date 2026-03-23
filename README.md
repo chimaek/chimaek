@@ -28,7 +28,7 @@ Python/Django와 Java/Spring Boot 기반의 서비스 개발을 하고 있으며
 
 **Backend** : Python, Django, Java, Spring Boot, FastAPI  
 **Database** : PostgreSQL, MySQL, Redis  
-**Infra** : Docker, GitHub Actions, Nginx, Traefik
+**Infra** : Docker, GitHub Actions, Nginx, Traefik  
 **AI/ML** : LangChain, vLLM, Ollama  
 
 ---
