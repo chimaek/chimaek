@@ -26,9 +26,9 @@ Python/Django와 Java/Spring Boot 기반의 서비스 개발을 하고 있으며
 
 ## 🔧 Tech Stack
 
-**Backend** : Python, Django, Java, Spring Boot  
+**Backend** : Python, Django, Java, Spring Boot, FastAPI  
 **Database** : PostgreSQL, MySQL, Redis  
-**Infra** : Docker, k3s, GitHub Actions, Nginx  
+**Infra** : Docker, GitHub Actions, Nginx, Traefik
 **AI/ML** : LangChain, vLLM, Ollama  
 
 ---
@@ -56,5 +56,5 @@ Python/Django와 Java/Spring Boot 기반의 서비스 개발을 하고 있으며
 ## 📝 Contact
 
 - **Blog** : [chimaek.net](https://chimaek.net)
-- **Email** : *(이메일 추가)*
-- **LinkedIn** : *(링크 추가)*
+- **Email** : pipiru100@gmail.com
+- **LinkedIn** : [linkedin](https://www.linkedin.com/in/seungjukim/)
