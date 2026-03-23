@@ -2,7 +2,7 @@
 
 백엔드 개발자 **Max**입니다.  
 Python/Django와 Java/Spring Boot 기반의 서비스 개발을 하고 있으며,  
-에듀테크 스타트업 [Weniv](https://weniv.co.kr)에서 LMS 및 교육 플랫폼을 만들고 있습니다.
+에듀테크 스타트업 [Weniv](https://weniv.co.kr)에서 기술수석 및 KDT 주강사를 맡아 강의, PM, 서비스 개발 업무를 수행하고 있습니다.
 
 ---
 
